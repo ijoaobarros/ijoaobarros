@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ijoaobarros
+- 👋 Hi, I’m João Paulo.
 - 👀 I’m interested in programming and music.
 - 🌱 I’m currently learning html, css and javascript.
 - 📫 You can reach me on instagram (@ijoaobarros).
