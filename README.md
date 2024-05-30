@@ -1,5 +1,5 @@
 - 👋 Hi, I’m João Paulo.
-- 👀 I’m interested in programming and music.
+- 👀 I’m interested in programming and technology.
 - 🌱 I’m currently learning html, css and javascript.
 - 📫 You can reach me on instagram (@ijoaobarros).
 
