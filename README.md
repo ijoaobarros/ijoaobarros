@@ -1,7 +1,7 @@
 - 👋 Hi, I’m João Paulo.
 - 👀 I’m interested in programming and technology.
-- 🌱 I’m currently learning html, css and javascript.
-- 📫 You can reach me on instagram (@ijoaobarros).
+- 🌱 I’m currently learning javascript and python.
+- 📫 You can reach me on linkedin (https://www.linkedin.com/in/jp-auto/).
 
 <!---
 ijoaobarros/ijoaobarros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
